@@ -1,4 +1,4 @@
 ##这是一个测试文件github
 
-1、测试git extensions conflict！
-2、再现冲突
+1、这是一个冲突
+2、这是分支冲突
