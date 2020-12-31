@@ -5,3 +5,4 @@
 3、现在测试stash
 4、现在测试reset提交
 5、git命令测试
+6、测试reset01
