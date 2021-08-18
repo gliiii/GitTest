@@ -1,3 +1,7 @@
 这是一个master分支第二次测试
 这是一个fix分支测试ssss
+<<<<<<< HEAD
 这是第二个confilict
+=======
+这是一个confilict
+>>>>>>> 4925b8dc5916263e9515f3eb872aa6add38154b2
